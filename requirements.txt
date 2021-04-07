@@ -4,6 +4,7 @@ pandas
 textblob
 nltk
 plotly-express
+pytest
 voila
 ipyvuetify
 voila-vuetify

@@ -2,6 +2,7 @@ jupyterlab
 requests
 pandas
 textblob
+nltk
 plotly-express
 voila
 ipyvuetify

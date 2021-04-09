@@ -29,7 +29,7 @@ You must need to install following libraries apart from the other libraries ment
 
 ## How do I run the dashboard? :bar_chart:
 
-Clicking [here] (https://reddit-monitoring-dashboard.herokuapp.com/) should launch the dashboard in the web browser.
+Clicking [here](https://reddit-monitoring-dashboard.herokuapp.com/) should launch the dashboard in the web browser.
 
 ## Screenshots
 

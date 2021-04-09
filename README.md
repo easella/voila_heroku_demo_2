@@ -1,6 +1,6 @@
 # From notebook to web application
 
-[Visit the original blog post!](https://duarteocarmo.com)
+[Visit the original blog post!](https://medium.com/@anaquib165/deploying-jupyter-notebook-as-a-web-app-with-heroku-d157b68bcccc)
 
 * [What is this about? 🤔](#what-is-this-about)
 * [What do I need to create the dashboard? 📔](#what-do-i-need-to-create-the-dashboard)
@@ -12,7 +12,7 @@
 
 I have discussed retrieving the live data from __Reddit__ using __Pushshift__, making the plots with __Plotly Express__, creating the app with __Voila__, and deploying it with __Heroku__.
 
-[Visit the original blog post!](https://duarteocarmo.com)
+[Visit the original blog post!](https://medium.com/@anaquib165/deploying-jupyter-notebook-as-a-web-app-with-heroku-d157b68bcccc)
 
 [Visit the live dashboard](https://reddit-monitoring-dashboard.herokuapp.com/) (might take a bit of time to load because of Heorku)
 

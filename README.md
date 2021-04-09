@@ -14,7 +14,7 @@ I have discussed retrieving the live data from __Reddit__ using __Pushshift__, m
 
 [Visit the original blog post!](https://duarteocarmo.com)
 
-[Visit the live dashboard](https://reddit-monitoring-dashboard.herokuapp.com/)(might take a bit of time to load because of Heorku)
+[Visit the live dashboard](https://reddit-monitoring-dashboard.herokuapp.com/) (might take a bit of time to load because of Heorku)
 
 
 

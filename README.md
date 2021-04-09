@@ -35,10 +35,13 @@ Clicking [here](https://reddit-monitoring-dashboard.herokuapp.com/) should launc
 
 ## Screenshots
 * __Comment activity__
+
 ![](images/comment_activity.png)
 * __Submission activity__
+
 ![](images/submission_activity.png)
 * __Sentiment timeline__
+
 ![](images/sentiment_timeline.png)
 
 

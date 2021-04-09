@@ -11,6 +11,7 @@
 ## What is this about?
 
 I have discussed retrieving the live data from Reddit using Pushshift, making the plots with Plotly Express, creating the app with Voila, and deploying it with Heroku.
+
 [Visit the original blog post!](https://duarteocarmo.com)
 
 [Visit the live dashboard](https://reddit-monitoring-dashboard.herokuapp.com/)(might take a bit of time to load because of Heorku)

@@ -34,9 +34,11 @@ You must need to install following libraries apart from the other libraries ment
 Clicking [here](https://reddit-monitoring-dashboard.herokuapp.com/) should launch the dashboard in the web browser.
 
 ## Screenshots
-
+* __Comment activity__
 ![](images/comment_activity.png)
+* __Submission activity__
 ![](images/submission_activity.png)
+* __Sentiment timeline__
 ![](images/sentiment_timeline.png)
 
 

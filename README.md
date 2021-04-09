@@ -10,7 +10,7 @@
 
 ## What is this about?
 
-I have discussed retrieving the live data from Reddit using Pushshift, making the plots with Plotly Express, creating the app with Voila, and deploying it with Heroku.
+I have discussed retrieving the live data from __Reddit__ using __Pushshift__, making the plots with __Plotly Express__, creating the app with __Voila__, and deploying it with __Heroku__.
 
 [Visit the original blog post!](https://duarteocarmo.com)
 

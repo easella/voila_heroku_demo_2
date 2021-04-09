@@ -2,8 +2,8 @@
 
 [Visit the original blog post!](https://alamnaquib.medium.com/deploying-jupyter-notebook-as-a-web-app-with-heroku-d157b68bcccc)
 
-* [What is this about? 🤔](#what-is-this-about)
-* [What do I need to create the dashboard? 📔](#what-do-i-need-to-create-the-dashboard)
+* [What is this about?](#what-is-this-about)
+* [What do I need to create the dashboard?](#what-do-i-need-to-create-the-dashboard)
 * [How do I run the dashboard? 📊](#how-do-i-run-the-dashboard-bar_chart)
 * [Screenshots](#screenshots)
 
